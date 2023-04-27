@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.body{
+	background-color:skyblue;
+}
+.para-1{
+	background-color:black;
+	color:white;
+	
+}
+.last-para{
+	color:red;
+}
+.list1{
+	background-color:white;
+}
+.list2{
+	background-color:stalegray;
+	
+}
+.list3{
+	
+}
