@@ -21,7 +21,7 @@ li:last-child{
 	
 }
 li:nth-child(even){
-	background-color:gray;
+	background-color:(135, 206, 235);
 	padding-left:2px;
 	
 }
